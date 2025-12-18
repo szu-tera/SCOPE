@@ -97,10 +97,10 @@ Weiqin Wang: here1swqw@gmail.com
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{todo,
+@article{wang2025beyond,
   title={Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning},
   author={Wang, Weiqin and Wang, Yile and Chen, Kehao and Huang, Hui},
-  journal={arXiv preprint arXiv:todo},
+  journal={arXiv preprint arXiv:2512.15146},
   year={2025}
 }
 ```
