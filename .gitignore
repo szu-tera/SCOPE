@@ -1,0 +1,21 @@
+# Training artifacts
+checkpoints/
+swanlog/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Tooling
+uv.lock
+.python-version
