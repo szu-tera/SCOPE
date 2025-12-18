@@ -2,8 +2,10 @@
   
 # Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning
 
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)]()
+[![Github](https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szu-tera/SCOPE)
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](todo)  [![Github](https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/szu-tera/SCOPE)
+🚧 **Code is under preparation and will be released soon.** 🚧
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
